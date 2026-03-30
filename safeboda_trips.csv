@@ -1,0 +1,51 @@
+trip_ref,date,time,pickup,dropoff,driver_name,trip_type,service_type,distance_km,duration_min,price_per_minute_ugx,price_per_km_ugx,base_fare_ugx,min_fare_ugx,duration_cost_ugx,distance_cost_ugx,peak_hour_price_ugx,long_ride_charge_ugx,subtotal_ugx,ride_cost_ugx,payment_method,order_total_ugx
+657e9542-4cfa-4297-9f93-5724b27e0e37,2026-03-26,18:48,Oryx Energies Lugogo,Dawson Kyaliwajjala Gas Station,Luyirika Waswa husein,Bike,Ride,9,32,30,320,500,2000,950,2978,1550,447,6424,6500,Mobile_money,6669
+db7dae87-939a-4dc6-9ef2-e09572a5cc01,2026-03-26,11:14,Dawson Kyaliwajjala Gas Station,ISBAT University,Paul Ayebare,Bike,Ride,11,20,30,320,500,2000,604,3376,672,7,5158,5000,Mobile_money,5130
+e4344ace-7b62-4417-a66b-86d21fa4c8f7,2026-03-25,18:39,Oryx Energies Lugogo,Dawson Kyaliwajjala Gas Station,Charles Kintu,Bike,Ride,9,24,30,320,500,2000,731,3005,1483,451,6169,6000,Mobile_money,6156
+cee84c96-01ce-471a-afee-4be211eaf16c,2026-03-25,09:32,Dawson Kyaliwajjala Gas Station,ISBAT University,Joshua Mwambu,Bike,Ride,11,22,30,320,500,2000,672,3376,910,7,5464,5500,Mobile_money,5643
+b11049df-440d-4115-9d06-140ae6184bd1,2026-03-23,18:51,Oryx Energies Lugogo,Dawson Kyaliwajjala Gas Station,Ashiraf Ssenfuka,Bike,Ride,9,29,30,320,500,2000,882,2964,1521,445,6312,6500,Mobile_money,6669
+1ae8aa56-99ba-4e68-a7f3-819a6022e1b7,2026-03-23,11:11,Dawson Kyaliwajjala Gas Station,ISBAT University,Mutaawe Muzamiru,Bike,Ride,11,19,30,320,500,2000,583,3376,669,7,5134,5000,Mobile_money,5130
+f1786aaf-a679-47d6-91b0-b8d64b974f1e,2026-03-22,10:24,Dawson Kyaliwajjala Gas Station,Watoto Church Bweyogerere,Julius Katekoko,Bike,Ride,7,14,30,320,500,2000,410,2179,463,327,3879,4000,Mobile_money,4104
+e805d35d-9584-44ba-9eb8-c2676ac3bcf3,2026-03-19,18:38,Oryx Energies Lugogo,Dawson Kyaliwajjala Gas Station,Degeya Ali,Bike,Ride,9,28,30,320,500,2000,843,2972,1510,446,6271,6500,Mobile_money,6669
+831f33ec-8944-4e16-b2ff-a98d8d0fd41c,2026-03-19,11:02,Dawson Kyaliwajjala Gas Station,ISBAT University,Charles Katwaka,Bike,Ride,11,21,30,320,500,2000,634,3376,676,7,5193,5000,Mobile_money,5130
+2a1a00ff-2f84-4e8b-97dc-18dfeba8540e,2026-03-18,18:52,Oryx Energies Lugogo,Dawson Kyaliwajjala Gas Station,Canwat Geofrey,Bike,Ride,9,32,30,320,500,2000,947,2971,1546,446,6410,6500,Mobile_money,6669
+40b79994-227e-4a09-8c84-6aa74df42bef,2026-03-18,09:29,Dawson Kyaliwajjala Gas Station,ISBAT University,NICHOLAS ATUZARIRWE,Bike,Ride,11,21,30,320,500,2000,626,3376,900,7,5409,5500,Mobile_money,5643
+9a462fc2-50a4-4976-aaea-0bf079034ae2,2026-03-16,18:51,Oryx Energies Lugogo,Dawson Kyaliwajjala Gas Station,Michael Mulindwa,Bike,Ride,9,28,30,320,500,2000,831,2972,1506,0,5809,6000,Mobile_money,6156
+68991280-948d-4927-aaba-cae6b6057609,2026-03-16,11:14,Dawson Kyaliwajjala Gas Station,ISBAT University,Godman Kiberu david,Bike,Ride,11,23,30,320,500,2000,704,3376,687,675,5942,6000,Mobile_money,6156
+3d543587-aa1e-4390-a963-26333538e611,2026-03-15,08:41,Dawson Kyaliwajjala Gas Station,Watoto Church Bweyogerere,Vicent Mwamula,Bike,Ride,7,11,30,320,500,2000,337,2179,1056,0,4072,4000,Mobile_money,4104
+c32d57a6-01b4-4d73-80ec-15b5c49259f1,2026-03-13,19:03,Oryx Energies Lugogo,Dawson Kyaliwajjala Gas Station,JORDAN AINAMANI,Bike,Ride,9,21,30,320,500,2000,625,2994,1442,0,5561,5500,Mobile_money,5643
+ab1be648-a62a-44b5-a17e-030f20c3e190,2026-03-13,14:00,Dawson Kyaliwajjala Gas Station,ISBAT University,Busuulwa Hakim,Bike,Ride,11,18,30,320,500,2000,529,3376,661,675,5741,5500,Mobile_money,5643
+038bb943-414e-4f15-9a5a-238d3d6b94f1,2026-03-12,18:41,Oryx Energies Lugogo,Dawson Kyaliwajjala Gas Station,Arozious Atwebembaire,Bike,Ride,9,32,30,320,500,2000,950,2932,1534,0,5915,6000,Mobile_money,6156
+b4965c99-0372-4d7a-8e47-8931e96cfbd5,2026-03-12,11:24,Dawson Kyaliwajjala Gas Station,ISBAT University,Charles Magoola,Bike,Ride,11,21,30,320,500,2000,627,3376,675,675,5853,6000,Mobile_money,6156
+cca66bfb-61de-49c2-be8c-4f3516187241,2026-03-11,18:41,Oryx Energies Lugogo,Dawson Kyaliwajjala Gas Station,Joshua Kidalime,Bike,Ride,9,33,30,320,500,2000,983,2983,1563,0,6030,6000,Mobile_money,6156
+25694f66-6c1b-478a-ae55-b7dc92100200,2026-03-11,09:57,Dawson Kyaliwajjala Gas Station,ISBAT University,Wangira Richard,Bike,Ride,11,24,30,320,500,2000,733,3376,922,675,6206,6000,Mobile_money,6156
+ecc68a7c-62c7-4712-810d-72f9cf90a39a,2026-03-09,18:57,Oryx Energies Lugogo,Dawson Kyaliwajjala Gas Station,Abert Nimwesiga,Bike,Ride,9,32,30,320,500,2000,958,2980,1553,0,5992,6000,Mobile_money,6156
+2330a9f5-307f-4816-8735-80de2e3e210d,2026-03-09,11:04,Dawson Kyaliwajjala Gas Station,ISBAT University,Kizito Luwanga,Bike,Ride,11,21,30,320,500,2000,641,3376,678,675,5869,6000,Mobile_money,6156
+7dc33ee0-31b4-44c8-a958-47700dd66f60,2026-03-08,08:50,Dawson Kyaliwajjala Gas Station,Watoto Church Bweyogerere,Mauso Abud,Bike,Ride,7,13,30,320,500,2000,401,2179,1078,0,4158,4000,Mobile_money,4104
+9d04bc77-a5d0-4e9e-bd96-33b35d59dfe2,2026-03-06,18:16,Oryx Energies Lugogo,Dawson Kyaliwajjala Gas Station,Richard Namugera,Bike,Ride,9,26,30,320,500,2000,778,2971,1487,0,5736,5500,Mobile_money,5643
+f35a9503-f697-41e6-ad8d-b19683fa0f3f,2026-03-06,14:18,Dawson Kyaliwajjala Gas Station,ISBAT University,Kabonge Vicent,Bike,Ride,11,19,30,320,500,2000,576,3376,668,675,5795,6000,Mobile_money,6156
+cb058c1a-abcf-4f28-b33e-ea5a810bb0f8,2026-03-05,18:46,Oryx Energies Lugogo,Dawson Kyaliwajjala Gas Station,Lumansi Peter,Bike,Ride,9,29,30,320,500,2000,881,2986,1528,0,5895,6000,Mobile_money,6156
+34aa46dd-4f04-4484-9745-3a3c897ceb7c,2026-03-05,11:19,Dawson Kyaliwajjala Gas Station,ISBAT University,Ivan Niyirinda,Bike,Ride,11,24,30,320,500,2000,717,3376,689,675,5957,6000,Mobile_money,6156
+61b1f287-c623-4628-b2c0-5d000c4a556c,2026-03-04,18:44,Oryx Energies Lugogo,Dawson Kyaliwajjala Gas Station,Emmah Tusiime,Bike,Ride,9,30,30,320,500,2000,915,2971,1535,0,5921,6000,Mobile_money,6156
+3aebda9e-6d27-49a8-987e-e4d13e944219,2026-03-04,09:26,Dawson Kyaliwajjala Gas Station,ISBAT University,Julius Sunday,Bike,Ride,11,23,30,320,500,2000,695,3376,914,675,6160,6000,Mobile_money,6156
+4b0828b3-aa90-45e7-a4bc-e13a67510cf1,2026-03-02,19:02,Oryx Energies Lugogo,Dawson Kyaliwajjala Gas Station,Bukenya Kizza,Bike,Ride,9,32,30,320,500,2000,958,3031,1571,0,6061,6000,Mobile_money,6156
+42ba0314-3fea-4d6b-84db-7b433b60ec3d,2026-03-02,11:33,Dawson Kyaliwajjala Gas Station,ISBAT University,Ddumba Ali,Bike,Ride,11,23,30,320,500,2000,683,3376,684,675,5918,6000,Mobile_money,6156
+dce44648-6bea-436a-ab50-296f8b8bee9b,2026-03-01,08:35,Dawson Kyaliwajjala Gas Station,Watoto Church Bweyogerere,Mwesigye Zefurini,Bike,Ride,7,12,30,320,500,2000,359,2179,1063,0,4102,4000,Mobile_money,4104
+bc09d47f-fd38-45ea-b079-87f323bf79d1,2026-02-27,19:14,Oryx Energies Lugogo,Dawson Kyaliwajjala Gas Station,Amiri nagwere,Bike,Ride,9,26,30,320,500,2000,789,2961,1488,0,5738,5500,Mobile_money,5643
+e3ed8f77-89d9-4818-a21d-409320beab98,2026-02-27,14:41,Dawson Kyaliwajjala Gas Station,ISBAT University,Musika Moses,Bike,Ride,9,45,30,320,500,2000,1363,2964,724,0,5551,5500,Mobile_money,5643
+88980be6-c79b-4daf-97d9-58135d83a659,2026-02-26,19:02,Oryx Energies Lugogo,Dawson Kyaliwajjala Gas Station,Andrew Lubega,Bike,Ride,9,29,30,320,500,2000,883,2968,1523,0,5873,6000,Mobile_money,6156
+0080c3c9-798d-422d-99bb-290fb642655e,2026-02-26,11:02,Dawson Kyaliwajjala Gas Station,ISBAT University,YASON BEGUMANYA,Bike,Ride,11,24,30,320,500,2000,705,3376,687,675,5943,6000,Mobile_money,6156
+e53d020a-c3c0-4e82-8316-a40d9d4b834c,2026-02-25,18:47,Oryx Energies Lugogo,Dawson Kyaliwajjala Gas Station,David Mwesigwa,Bike,Ride,9,26,30,320,500,2000,793,2973,1493,0,5760,6000,Mobile_money,6156
+473cedf9-9ffe-4600-b42d-411081b10ce3,2026-02-25,10:00,Dawson Kyaliwajjala Gas Station,ISBAT University,Umaru mbazira,Bike,Ride,11,22,30,320,500,2000,653,3376,906,675,6110,6000,Mobile_money,6156
+99dd382c-f045-44ce-8377-c86ec78e4ba9,2026-02-23,19:01,Oryx Energies Lugogo,Dawson Kyaliwajjala Gas Station,Hassan Muzongho,Bike,Ride,9,27,30,320,500,2000,816,2969,1500,0,5785,6000,Mobile_money,6156
+9561e037-1f34-440c-8bdd-07bc4449f18c,2026-02-23,11:28,Dawson Kyaliwajjala Gas Station,ISBAT University,Fred Habumuremyi,Bike,Ride,11,26,30,320,500,2000,782,3376,699,675,6031,6000,Mobile_money,6156
+39887284-f00c-4f90-bba4-9ff569d3ba0f,2026-02-22,08:49,Dawson Kyaliwajjala Gas Station,Watoto Church Bweyogerere,Jackson Ndogera,Bike,Ride,7,10,30,320,500,2000,296,2179,1041,0,4017,4000,Mobile_money,4104
+76b01a89-e360-40ab-a469-1d577d572fd8,2026-02-20,18:52,Oryx Energies Lugogo,Dawson Kyaliwajjala Gas Station,Ismail Wanda,Bike,Ride,9,25,30,320,500,2000,738,2979,1476,0,5693,5500,Mobile_money,5643
+fa5d4345-0393-4c52-a9b0-e1ec24bde7b1,2026-02-20,14:04,Dawson Kyaliwajjala Gas Station,ISBAT University,Fred Kalulu,Bike,Ride,11,20,30,320,500,2000,613,3376,673,675,5837,6000,Mobile_money,6156
+c55d4992-bff5-43ee-a156-e60c057e3746,2026-02-19,19:04,Oryx Energies Lugogo,Dawson Kyaliwajjala Gas Station,Mukisa Sebastian,Bike,Ride,9,30,30,320,500,2000,893,2971,1527,0,5892,6000,Mobile_money,6156
+f2ba7188-3666-4a77-acf7-5982cc5749ed,2026-02-19,11:09,Dawson Kyaliwajjala Gas Station,ISBAT University,Ronald Ssemwanga,Bike,Ride,11,24,30,320,500,2000,714,3376,688,675,5953,6000,Mobile_money,6156
+9a0f5e27-3918-44d9-b8cb-3b75170bf8fe,2026-02-18,18:54,Oryx Energies Lugogo,Dawson Kyaliwajjala Gas Station,Elia Baryejusa,Bike,Ride,9,29,30,320,500,2000,865,2985,1522,0,5872,6000,Mobile_money,6156
+6f74bba7-a407-40fa-a12b-3869ff1bbd79,2026-02-18,09:10,Dawson Kyaliwajjala Gas Station,ISBAT University,STEVEN SSEBADUKA,Bike,Ride,11,26,30,320,500,2000,768,3376,1625,675,6944,7000,Mobile_money,7182
+ee854b36-f7fe-4d85-a722-ae7b6757bf91,2026-02-15,09:10,Dawson Kyaliwajjala Gas Station,Watoto Church Bweyogerere,Dasian Byaruhanga,Bike,Ride,7,14,35,375,500,2000,495,2554,1242,0,4791,5000,Mobile_money,5130
+7d44c263-6b82-4da7-a7e8-843e5e4878ce,2026-02-13,19:13,Oryx Energies Lugogo,Dawson Kyaliwajjala Gas Station,Emmanuel Nsengimaana,Bike,Ride,9,30,35,375,500,2000,1045,3467,1754,0,6767,7000,Mobile_money,7182
+5757b502-8c69-4633-96b2-2cf834a6a074,2026-02-13,14:20,Dawson Kyaliwajjala Gas Station,ISBAT University,Benard Tebandeka,Bike,Ride,11,26,35,375,500,2000,907,3956,804,791,6958,7000,Mobile_money,7182
