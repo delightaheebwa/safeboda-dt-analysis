@@ -9,7 +9,7 @@ Investigating whether — controlling for distance and duration — the day of t
 
 ## 2. Data
 
-- **Source:** Personal SafeBoda trip receipts (Uganda), manually recorded.
+- **Source:** Personal SafeBoda trip receipts (Uganda).
 - **Time period / geography / units:** March – April 2026; Kampala, Uganda; prices in Ugandan Shillings (UGX); distance in km; duration in minutes.
 - **Main file:** `safeboda_trips.csv` — 50 trips with 22 variables including `date`, `time`, `distance_km`, `duration_min`, `peak_hour_price_ugx`, `price_per_km_ugx`, `price_per_minute_ugx`, `base_fare_ugx`, and `order_total_ugx`.
 - **Key cleaning / transformations:**
