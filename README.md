@@ -14,7 +14,7 @@ Investigating whether, controlling for distance and duration, the day of the wee
 - **Main file:** `safeboda_trips.csv`, containing 50 trips with 22 variables including `date`, `time`, `distance_km`, `duration_min`, `peak_hour_price_ugx`, `price_per_km_ugx`, `price_per_minute_ugx`, `base_fare_ugx`, and `order_total_ugx`.
 - **Key cleaning / transformations:**
   - Extracted `day` (day-of-week name) and `hour` from raw `date` and `time` columns.
-  - Bucketed `hour` into seven `time_of_day` categories using 3-hour intervals from 6 am: Early morning (0–6), Morning (6–9), Late morning (9–12), Early afternoon (12–15), Late afternoon (15–18), Evening (18–21), Night (21–24).
+  - Bucketed `hour` into six `time_of_day` categories: Early morning (0–6), Morning (6–9), Late morning (9–12), Early afternoon (12–15), Late afternoon (15–18), Evening (18–24).
 
 ## 3. Methodology
 
@@ -29,7 +29,7 @@ Investigating whether, controlling for distance and duration, the day of the wee
 
 ## 4. Results and Insights
 
-- **Time of day dominates pricing:** Evening trips (18:00–21:00) carry the highest surcharges across almost every day (~1,500–1,571 UGX), while late-morning trips (9:00–12:00) are consistently cheapest (~668–724 UGX). Riders can save significantly by scheduling non-urgent trips in the late morning.
+- **Time of day dominates pricing:** Evening trips (18:00–24:00) carry the highest surcharges across almost every day (~1,500–1,571 UGX), while late-morning trips (9:00–12:00) are consistently cheapest (~668–724 UGX). Riders can save significantly by scheduling non-urgent trips in the late morning.
 - **Monday evening is the single most expensive slot:** Median peak surcharge of ~1,536 UGX, countering the initial hypothesis that Wednesday evening would top the rankings. Thursday and Wednesday late-afternoon slots follow closely.
 - **Day of week is a secondary effect:** Wednesday has the highest overall median (1,488 UGX) and Sunday the lowest (1,059.5 UGX), but the within-day time-of-day variation is larger than the between-day variation.
 - **Notebook / report:** [`notebook.ipynb`](notebook.ipynb)
